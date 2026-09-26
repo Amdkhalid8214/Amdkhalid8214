@@ -24,7 +24,7 @@ I enjoy working on LLMs, RAG systems, NLP, information retrieval, and AI-powered
 
 💻 Programming
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]  (https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)] 
 
 🤖 AI / Machine Learning
