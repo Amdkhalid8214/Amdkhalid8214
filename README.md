@@ -148,6 +148,7 @@ AI applications focused on:
 I'm interested in AI/ML projects, Generative AI, open-source collaboration, and opportunities to build practical AI systems.
 
 ""LinkedIn" (https://www.linkedin.com/in/a-mohammad-khalid-381b8a341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" 
+
 ""GitHub" (https://github.com/Amdkhalid8214)" (https://github.com/Amdkhalid8214)
 
 ---
