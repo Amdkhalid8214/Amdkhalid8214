@@ -42,6 +42,7 @@ I enjoy working on LLMs, RAG systems, NLP, information retrieval, and AI-powered
 
 🔎 Search & Vector Databases
 
+[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 [![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)]
 [![ChrmaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)]
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)]
