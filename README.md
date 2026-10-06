@@ -134,7 +134,6 @@ LLM-powered tools and workflows designed for knowledge work, retrieval, and auto
 
 ## 🛠️ Learning Path
 
-```text
 Foundations
     ↓
 Machine Learning
@@ -149,13 +148,39 @@ Advanced RAG Systems
     ↓
 Production AI Applications
 
+---
+
 ## 🤝 Let's Connect
 
-I'm open to collaborations on AI/ML projects, Generative AI, and open-source contributions.
+I'm open to collaborations on **AI/ML projects, Generative AI, open-source contributions**, and interesting product discussions.
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohammad-khalid-381b8a341)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdkhalid8214)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahammadkhalid333@gmail.com)
+
+</div>
 
 ---
 
-⭐ *If you find my work valuable, feel free to explore, fork, and connect!*
+## 📝 Recent Work & Showcase
+
+> Check out my repositories to see:
+> - 🧪 ML experiments and prototypes
+> - 🤖 Generative AI applications
+> - 📚 Learning resources (data science guides, tutorials)
+> - 🔧 Production-ready tools and libraries
+> - 🚀 Portfolio projects demonstrating AI/ML skills
+
+---
+
+<div align="center">
+
+⭐ *If you find my work valuable, feel free to explore, fork, star, and connect!*
+
+**Currently building AI solutions that matter.**
+
+Made with ❤️ for the AI/ML community
+
+</div>
