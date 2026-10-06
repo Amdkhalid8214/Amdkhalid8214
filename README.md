@@ -13,54 +13,63 @@
   <img src="https://img.shields.io/badge/Status-Building_AI_Products-brightgreen?style=for-the-badge" alt="Building AI products" />
 
 </div>
+# 👋 Hi, I'm AMD
 
-I build production-ready machine learning and generative AI systems that solve real-world problems. My work focuses on LLM-powered applications, retrieval-augmented generation (RAG), semantic search, intelligent document processing, and scalable AI product architecture.
+> AI Engineer | Data Scientist | Generative AI Specialist
+
+Building production-ready Machine Learning and Generative AI systems that transform raw data into intelligent solutions. Specialized in LLM applications, RAG systems, semantic search, and intelligent automation.
+
+<div align="center">
+
+![Profile Badge](https://img.shields.io/badge/Focus-AI_ML_GenAI-blue?style=for-the-badge&logo=brain&logoColor=white)
+![Experience](https://img.shields.io/badge/Expertise-RAG_LLMs_Search-purple?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Building_AI_Products-brightgreen?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🚀 What I Do
 
-- 🧠 **Machine Learning & Deep Learning**
-- 🤖 **Generative AI & LLM Applications**
-- 🔍 **Retrieval-Augmented Generation (RAG)**
-- 📚 **Semantic Search & Document Intelligence**
-- 🔗 **Hybrid Search, Ranking & Reranking**
-- 🚀 **Production AI Systems & MLOps**
+I design and build intelligent systems that combine strong engineering with cutting-edge AI models:
+
+- 🧠 Machine Learning & Deep Learning
+- 🤖 Generative AI & LLMs
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🔎 Hybrid Search & Ranking
+- 📚 Intelligent Document Processing
+- 🚀 Production AI Systems
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### ML / AI
+### Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### LLM / Generative AI
+### Generative AI & LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge)
 
-### Search / Vector DB
+### Vector Databases & Search
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### Frameworks / APIs
+### Frameworks & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### DevOps / Deployment
+### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -70,49 +79,43 @@ I build production-ready machine learning and generative AI systems that solve r
 
 ## 🎯 Core Expertise
 
-### 1. Advanced RAG Systems
-- Intelligent document parsing
-- Semantic chunking
-- Dense and sparse retrieval
-- Hybrid search and fusion
-- Reranking and refinement
-- LLM-based answer generation
+### Advanced RAG Systems
+- Semantic retrieval
+- Hybrid search
+- Reranking
+- LLM answer synthesis
 
-### 2. Machine Learning Pipelines
-- Data preprocessing and feature engineering
-- Model training and evaluation
+### Machine Learning Pipelines
+- Data preprocessing
+- Model training
 - Hyperparameter tuning
-- Experiment tracking
-- Performance optimization
+- Evaluation & optimization
 
-### 3. Generative AI Applications
+### Generative AI Applications
 - Prompt engineering
-- Retrieval-aware workflows
-- LLM integrations
-- AI-powered product automation
+- Retrieval-aware automation
+- AI-powered workflows
 
 ---
 
 ## 📚 Featured Projects
 
-### 🔹 Advanced RAG System
-A production-oriented retrieval-augmented generation system implementing end-to-end document intelligence, hybrid retrieval, reranking, and answer synthesis.
+### Advanced RAG System
+A production-oriented Retrieval-Augmented Generation pipeline implementing end-to-end document intelligence.
 
-### 🔹 Machine Learning Projects
-End-to-end ML pipelines for cleaning, modeling, evaluation, and scalable deployment.
+### Machine Learning Projects
+End-to-end ML pipelines for preprocessing, feature engineering, model training, and evaluation.
 
-### 🔹 Generative AI Applications
-LLM-powered tools and workflows designed for knowledge work, retrieval, and automation.
-
-> More projects are actively being built and documented.
+### Generative AI Applications
+LLM-integrated applications with structured prompt engineering and workflow automation.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdkhalid8214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amdkhalid8214&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amdkhalid8214&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -122,27 +125,20 @@ LLM-powered tools and workflows designed for knowledge work, retrieval, and auto
 
 ## 🌱 Currently Exploring
 
-- 🧠 Advanced RAG architectures and agentic AI workflows
-- 🔬 Transformer-based optimization and fine-tuning
-- 📊 Hybrid search algorithms and reranking strategies
-- 🚀 MLOps and scalable AI deployment
-- 🎯 Real-world AI applications with measurable impact
+- Advanced RAG architectures
+- Transformer architectures
+- Vector databases
+- MLOps & deployment
 
 ---
 
-## 🛠️ Learning Path
+## 🤝 Let's Connect
 
-```text
-Foundations
-    ↓
-Machine Learning
-    ↓
-Deep Learning & Transformers
-    ↓
-LLMs & Embeddings
-    ↓
-Vector Search & Retrieval
-    ↓
-Advanced RAG Systems
-    ↓
-Production AI Applications
+I'm open to collaborations on AI/ML projects, Generative AI, and open-source contributions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohammad-khalid-381b8a341)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amdkhalid8214)
+
+---
+
+⭐ *If you find my work valuable, feel free to explore, fork, and connect!*
