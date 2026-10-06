@@ -1,5 +1,5 @@
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Amdkhalid8214/Amdkhalid8214/main/profile.jpeg"
+<div align="Left">
+  <img src="https://raw.githubusercontent.com/Amdkhalid8214/Amdkhalid8214/main/profile.jpg"
        width="280"
        alt="AMD profile photo"
        style="border-radius: 50%; border: 4px solid #7dd3fc; box-shadow: 0 0 30px rgba(125, 211, 252, 0.8); padding: 4px; background: #0b1120;" />
@@ -148,8 +148,6 @@ Vector Search & Retrieval
 Advanced RAG Systems
     ↓
 Production AI Applications
-
----
 
 ## 🤝 Let's Connect
 
