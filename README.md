@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Amdkhalid8214/Amdkhalid8214/main/profile.jpg" width="300" alt="AMD profile photo" />
+  <img src="https://raw.githubusercontent.com/Amdkhalid8214/Amdkhalid8214/main/profile.jpeg" width="300" alt="AMD profile photo" />
 
   <h1>👋 Hi, I'm AMD</h1>
 
