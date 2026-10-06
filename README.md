@@ -131,7 +131,7 @@ LLM-powered tools and workflows designed for knowledge work, retrieval, and auto
 - 🎯 Real-world AI applications with measurable impact
 
 ---
-
+```text
 ## 🛠️ Learning Path
 
 Foundations
@@ -148,7 +148,7 @@ Advanced RAG Systems
     ↓
 Production AI Applications
 
----
+```
 
 ## 🤝 Let's Connect
 
